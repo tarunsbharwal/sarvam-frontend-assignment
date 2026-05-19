@@ -54,6 +54,6 @@ Since `W` is a small constant (e.g., 8), the effective time complexity is **O(N)
 
 ## Deployment
 
-- GitHub Repository: [Link to repository]
-- Vercel Deployment: [Link to deployment]
-- Video Walkthrough: [Link to video]
+- GitHub Repository: https://github.com/tarunsbharwal/sarvam-frontend-assignment
+- Vercel Deployment: https://sarvam-frontend-assignment-delta.vercel.app/
+- Video Walkthrough: https://www.loom.com/share/642bebaa589d4df6af646d1cfde0e5ba
